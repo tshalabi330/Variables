@@ -5,7 +5,7 @@ public class Variables {
 		int a = 63;
 		int b = 45;
 
-		
+		//comment comment comment
 		System.out.println("a is " + a);
 		System.out.println("b is " + b);
 		
